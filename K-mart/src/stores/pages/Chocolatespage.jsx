@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChocolatesData } from '../data/Chocolates';
+import { ChocolatesData } from '../data/Chocolates.js';
 import Navbar from '../components/Navbar';
 const Chocolatespage = () => {
     return(
