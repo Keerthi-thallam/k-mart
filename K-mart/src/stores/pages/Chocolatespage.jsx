@@ -1,5 +1,5 @@
-import Raect from 'react';
-import { ChocolatesData } from '../data/chocolates';
+import React from 'react';
+import { ChocolatesData } from '../data/Chocolates';
 import Navbar from '../components/Navbar';
 const Chocolatespage = () => {
     return(
